@@ -1,0 +1,14 @@
+
+.cart{
+   background-color: brown;
+   padding: 20px 30px;
+   margin: 0 30px;
+   color: #fff;
+   border-radius: 20px;
+   text-align: left;
+}
+.added-member-list{
+   border: 1px solid #fff;
+   padding: 10px 20px;
+   border-radius: 5px;
+}
