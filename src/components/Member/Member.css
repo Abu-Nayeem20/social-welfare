@@ -1,0 +1,16 @@
+
+.thumbnail{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.member{
+    border: 1px solid rebeccapurple;
+    background-color: rgba(0, 0, 255, 0.623);
+    padding: 20px;
+    border-radius: 15px;
+}
+.member-info{
+    text-align: left;
+    color: whitesmoke;
+}

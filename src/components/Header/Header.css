@@ -1,0 +1,20 @@
+
+.header-container{
+    background-color: #ddd;
+    padding: 40px 0;
+}
+.title{
+    font-size: 36px;
+    font-weight: 700;
+    color: brown;
+    line-height: 0;
+}
+.tagline{
+    color: royalblue;
+    font-size: 18px;
+}
+.budget{
+    font-size: 30px;
+    color: brown;
+    line-height: 0;
+}
